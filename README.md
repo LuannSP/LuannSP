@@ -1,6 +1,6 @@
 - 👋 Olá, eu sou o Luann Gonçalves.
 - 📘 Formado em Sistemas de Informação.
-- 👀 Atualmente tenho interesse em Python.
+- Atualmente tenho interesse em Python.
 
 <div align="center">
   <a href="https://github.com/LuannSP">
