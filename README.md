@@ -1,6 +1,10 @@
 - 👋 Olá, eu sou o Luann Gonçalves.
-- 📘 Formado em Sistemas de Informação.
-- Atualmente tenho interesse em Python.
+  
+- 📘 Pontifícia Universidade Católica do Rio de Janeiro
+     Pós-graduação Lato Sensu - Especialização, Engenharia de Software · (janeiro de 2024 - dezembro de 2024)
+  
+- 📘 UniSãoJosé
+     Curso Superior de Tecnologia (CST), Tecnologia em Sistemas de Informação · (janeiro de 2021 - dezembro de 2023
 
 <div align="center">
   <a href="https://github.com/LuannSP">
