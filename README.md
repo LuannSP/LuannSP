@@ -1,10 +1,10 @@
 - 👋 Olá, eu sou o Luann Gonçalves.
   
 - 📘 Pontifícia Universidade Católica do Rio de Janeiro
-     Pós-graduação Lato Sensu - Especialização, Engenharia de Software · (janeiro de 2024 - dezembro de 2024)
+     Pós-graduação Lato Sensu - Especialização, Engenharia de Software.
   
 - 📘 UniSãoJosé
-     Curso Superior de Tecnologia (CST), Tecnologia em Sistemas de Informação · (janeiro de 2021 - dezembro de 2023)
+     Curso Superior de Tecnologia (CST), Tecnologia em Sistemas de Informação.
 
 <div align="center">
   <a href="https://github.com/LuannSP">
